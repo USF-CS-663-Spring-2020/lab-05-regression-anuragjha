@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Anurag Jha
+**USF email address**:  ajha6@dons.usfca.edu
